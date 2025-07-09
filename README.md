@@ -24,10 +24,15 @@ Tech Stack
 ✨ Highlights
 
 📌 Interactive Visuals – Filter and explore sales data dynamically.
+
 📈 Key Metrics Tracked – Profit, Revenue, Sales Amount, Cost, and Quantity Sold.
+
 📊 Category-wise Analysis – Compare performance across Clothing, Furniture, Electronics, and Food.
+
 🌍 Regional Insights – Understand sales trends by North, South, East, and West regions.
+
 🕒 Monthly Trends – Visualize average sales month-over-month.
+
 💡 Profitability View – Analyze unit cost vs. price to evaluate margin efficiency.
 
 Demos
