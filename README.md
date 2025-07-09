@@ -2,6 +2,7 @@
 Project Title
 
 Interactive Sales Performance Dashboard
+
 This project features a dynamic and visually engaging **Sales Dashboard** built in **Power BI**, designed to help stakeholders track and analyze key sales metrics effectively. It enables business users to explore insights by category, region, and time—enhancing strategic decision-making.
 
 Short Description
